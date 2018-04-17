@@ -1,0 +1,6 @@
+[package]
+name = "survey_generator"
+version = "0.1.0"
+authors = ["albmin <ericjalbee+007@gmail.com>"]
+
+[dependencies]
