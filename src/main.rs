@@ -62,6 +62,7 @@ fn survey_from_json(mut file: File) -> Result<Survey, SurveyError>  {
 	}			
 }
 
+//todo requires a directory to output the surveys to, as well as a count
 fn generate_surveys(survey: Survey) {
 
 }

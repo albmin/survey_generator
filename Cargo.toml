@@ -7,3 +7,4 @@ authors = ["albmin <REDACTED+007@gmail.com>"]
 serde_json = "1.0"
 serde = "1.0"
 serde_derive = "1.0"
+clap = "2.31.2"
